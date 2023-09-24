@@ -41,3 +41,5 @@ Summarize the results of the machine learning models and include a recommendatio
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 
 If you do not recommend any of the models, please justify your reasoning.
+
+The logistic regression model trained on oversampled data exhibited significantly superior performance compared to the model trained on imbalanced data. This improvement is attributed to the balanced nature of the data, resulting in a notably higher accuracy score and enhanced recall. These outcomes indicate that the model is expected to make far fewer errors when categorizing non-healthy loans. Based on the examination of the confusion matrices, there is a significant reduction in the number of false positives, suggesting that the model is likely to accurately classify both healthy and non-healthy loans. Considering this analysis, I would recommend the utilization of Model 2, which is the Logistic Regression Model trained with balanced (oversampled) data.
