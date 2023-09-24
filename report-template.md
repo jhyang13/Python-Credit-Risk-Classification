@@ -2,14 +2,16 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+In this section, describe the analysis you completed for the machine learning models used in this challenge. This might include:
 
 * Explain the purpose of the analysis.
 
-We will use Machine Learning in this analysis to examine a dataset containing historical lending activity data from a peer-to-peer lending services company. The goal is to create a model capable of assessing the creditworthiness of borrowers.
+We will use machine learning in this analysis to examine a dataset containing historical lending activity data from a peer-to-peer lending services company. The goal is to create a model capable of assessing the creditworthiness of borrowers.
 
+* Explain what financial information the data was on and what you needed to predict.
 
-* Explain what financial information the data was on, and what you needed to predict.
+Employing a machine learning approach, I aim to classify loans as either low-risk (healthy) or high-risk (non-healthy) based on the loan status provided by the lending company. The Logistic Regression Algorithm is chosen as the most suitable tool for our machine learning model, as it is commonly utilized to predict the probability of a target variable in classification tasks.
+
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
