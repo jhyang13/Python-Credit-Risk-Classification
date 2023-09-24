@@ -25,16 +25,12 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall Scores
 
-According to the model recall scores, the model made 1% of mistakes when predicting healthy loans and 9% of mistakes when predicting non-healthy loans.
-
-The model generated an accuracy score of 95% but could be improved due to the dataset being imbalanced.
+According to the model recall scores, the model made 1% of mistakes when predicting healthy loans and 9% of mistakes when predicting non-healthy loans. The model generated an accuracy score of 95% but could be improved due to the dataset being imbalanced.
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall Scores
 
-According to the model recall scores, the model made 1% of mistakes when predicting healthy loans and 1% of mistakes when predicting non-healthy loans.
-
-The model generated an accuracy score of 99% due to the dataset being balanced.
+According to the model recall scores, the model made 1% of mistakes when predicting healthy loans and 1% of mistakes when predicting non-healthy loans. The model generated an accuracy score of 99% due to the dataset being balanced.
 
 ## Summary
 
