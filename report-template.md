@@ -16,6 +16,8 @@ Employing a machine learning approach, I aim to classify loans as either low-ris
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
+Using the dataset provided by the lending company, I constructed a logistic regression model that achieved an accuracy score of 95%. Despite the model's high overall accuracy, it exhibits a lower recall value (0.91) for non-healthy loans compared to the recall value (0.99) for healthy loans. This suggests that the model excels at classifying loans as healthy but may have some challenges in correctly identifying non-healthy loans. This imbalance in performance can be attributed to the dataset's inherent class imbalance, where healthy loans significantly outnumber non-healthy loans.
+
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
@@ -23,10 +25,13 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 
+The model generated an accuracy score of 95% but could be improved due to the dataset being imbalanced.
 
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
+
+The model generated an accuracy score of 99% due to the dataset being balanced.
 
 ## Summary
 
