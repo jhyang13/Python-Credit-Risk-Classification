@@ -10,7 +10,7 @@ We will use machine learning in this analysis to examine a dataset containing hi
 
 * Explain what financial information the data was on and what you needed to predict.
 
-Employing a machine learning approach, I aim to classify loans as either low-risk (healthy) or high-risk (non-healthy) based on the loan status provided by the lending company. The Logistic Regression Algorithm is chosen as the most suitable tool for our machine learning model, as it is commonly utilized to predict the probability of a target variable in classification tasks.
+Employing a machine learning approach, we aim to classify loans as either low-risk (healthy) or high-risk (non-healthy) based on the loan status provided by the lending company. The Logistic Regression Algorithm is chosen as the most suitable tool for our machine learning model, as it is commonly utilized to predict the probability of a target variable in classification tasks.
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
@@ -26,7 +26,6 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 
 The model generated an accuracy score of 95% but could be improved due to the dataset being imbalanced.
-
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
