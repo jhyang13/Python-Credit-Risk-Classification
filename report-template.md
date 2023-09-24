@@ -23,18 +23,22 @@ Using the dataset provided by the lending company, I constructed a logistic regr
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
+  * Description of Model 1 Accuracy, Precision, and Recall Scores
+
+According to the model recall scores, the model made 1% of mistakes when predicting healthy loans and 9% of mistakes when predicting non-healthy loans.
 
 The model generated an accuracy score of 95% but could be improved due to the dataset being imbalanced.
 
 * Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
+  * Description of Model 2 Accuracy, Precision, and Recall Scores
+
+According to the model recall scores, the model made 1% of mistakes when predicting healthy loans and 1% of mistakes when predicting non-healthy loans.
 
 The model generated an accuracy score of 99% due to the dataset being balanced.
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
+Summarize the results of the machine learning models and include a recommendation on which model to use, if any. For example:
 * Which one seems to perform best? How do you know it performs best?
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 
