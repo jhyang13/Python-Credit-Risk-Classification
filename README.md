@@ -12,11 +12,11 @@ I used various techniques to train and evaluate a model based on loan risk. I ut
 
 2. Clone the new repository to your computer.
 
-3. Inside your `credit-risk-classification` repository, create a folder titled "Credit_Risk."
+3. Inside the `credit-risk-classification` repository, create a folder titled "Credit_Risk."
 
 4. Inside the "Credit_Risk" folder, add the `credit_risk_classification.ipynb` and `lending_data.csv` files found in the "Starter_Code.zip" file.
 
-5. Push your changes to GitHub.
+5. Push the changes to GitHub.
 
 ### Instructions
 
@@ -42,7 +42,7 @@ Open the starter code notebook and use it to complete the following steps:
 
 #### Create a Logistic Regression Model with the Original Data
 
-Use your knowledge of logistic regression to complete the following steps:
+Use the knowledge of logistic regression to complete the following steps:
 
 1. Fit a logistic regression model by using the training data (`X_train` and `y_train`).
 
@@ -58,15 +58,13 @@ Use your knowledge of logistic regression to complete the following steps:
 
 #### Write a Credit Risk Analysis Report
 
-Write a brief report that includes a summary and analysis of the performance of the machine learning models that you used in this homework. You should write this report as the `README.md` file included in your GitHub repository.
-
-Structure your report by using the report template that `Starter_Code.zip` includes, ensuring that it contains the following:
+Write a brief report that includes a summary and analysis of the performance of the machine learning models. 
 
 1. **An overview of the analysis:** Explain the purpose of this analysis.
 
 2. **The results:** Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
-3. **A summary:** Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
+3. **A summary:** Summarize the results from the machine learning model.
 
 ### References
 
