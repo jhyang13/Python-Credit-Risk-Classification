@@ -10,7 +10,7 @@ I used various techniques to train and evaluate a model based on loan risk. I ut
 
 1. Create a new repository for this project called `credit-risk-classification`.
 
-2. Clone the new repository to your computer.
+2. Clone the new repository to the computer.
 
 3. Inside the `credit-risk-classification` repository, create a folder titled "Credit_Risk."
 
